@@ -1,0 +1,11 @@
+streamlit
+PyPDF2
+tiktoken
+langchain
+langchain_core
+openai
+fastapi
+uvicorn
+python-dotenv
+httpx==0.23.0
+-e .
